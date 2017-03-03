@@ -75,7 +75,8 @@ Your job in this problem is to create a new Python script `epsg_finder.py` that:
   - If the user enters any other value, the program should print "There are so many spatial references..I don’t know them all, sorry." to the screen
 
 
-## EXTRA TASK (only if you have time!) - Nested `for` loops
+## Problem 3 (EXTRA TASK) - Nested `for` loops
+
 In addition to having single `for` loops that iterate across some variable range, it is possible to *nest* `for` loops within one another.
 Consider the example below:
 
