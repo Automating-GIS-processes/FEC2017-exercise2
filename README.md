@@ -1,5 +1,7 @@
 # Automating GIS processes/ FEC 2017 / Exercise 2 - `for` loops and conditional statements
 
+[Exercise 2](https://automating-gis-processes.github.io/FEC/Day2-Exercise2.html) for the course [Automating GIS processes / FEC 2017](https://automating-gis-processes.github.io/FEC/index.html)
+
 This exercise is meant to help you to understand `for` loops and conditional statements in Python.
 Below you have a series of problems in which you are asked to create new script files and write the code necessary to produce the desired results.
 After making your changes, you will need to upload these files to GitHub.
