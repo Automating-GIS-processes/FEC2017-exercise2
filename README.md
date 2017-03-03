@@ -77,6 +77,8 @@ Your job in this problem is to create a new Python script `epsg_finder.py` that:
 
 ## Problem 3 (EXTRA TASK) - Nested `for` loops
 
+*This is not a compulsory exercise, you can try to solve this problem after you have finished the two first tasks*
+
 In addition to having single `for` loops that iterate across some variable range, it is possible to *nest* `for` loops within one another.
 Consider the example below:
 
